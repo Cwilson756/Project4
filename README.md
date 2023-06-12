@@ -37,6 +37,7 @@ This methods converts series into instances by column. Each column is a series o
 # Machine learning models
 ## Logistic Regression
 
+
 ## Decision tree
 Has potential
 The most accurate instance of this model contained both lithologic and environmental data. Included was longitudinal data, this furthered the models accuracy by ~ 4% t 73.44% where the previous model ignored latitude and longitude, yielding 69.02%.
