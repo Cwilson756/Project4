@@ -6,10 +6,10 @@ description goes here
 For this clean up, we used the Pandas and Regex libraries. Our data came from [The Paleobiology Database](https://paleobiodb.org/#/). 
 
 ## Use Instructions
-   Upload "nnModel_Colab" to Google Colab "https://colab.research.google.com/"
-   Click the files icon on the right side of the Colab Page
-   Click "Upload to session storage"
-   Upload "cleaned_data_revisedSet_noNull2" from this repository in the "Starting_Data" Folder
+1. Upload "nnModel_Colab" to Google Colab "https://colab.research.google.com/"
+2. Click the files icon on the right side of the Colab Page
+3. Click "Upload to session storage"
+4. Upload "cleaned_data_revisedSet_noNull2" from this repository in the "Starting_Data" Folder
 
 ## Accessing Data
 This project worked with two datasets.
