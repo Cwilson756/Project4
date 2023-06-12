@@ -13,6 +13,10 @@ For this clean up, we used the Pandas and Regex libraries. Our data came from [T
 5. Click on runtime on the top left of screen
 6. From the runtime dropbox click run all
 
+## Tableau Dashboard Links
+1. Vizualizations for new dataset and breakdown of old and new datasets: https://public.tableau.com/app/profile/mitchell.knight/viz/Project4NewData/Dashboard1?publish=yes
+2. Learning Model version overview: https://public.tableau.com/app/profile/mitchell.knight/viz/ModelStatsProject4/Dashboard1 
+
 ## Accessing Data
 This project worked with two datasets.
 1. Describe which columns and setting swere used to filter data.
