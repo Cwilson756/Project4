@@ -10,6 +10,8 @@ For this clean up, we used the Pandas and Regex libraries. Our data came from [T
 2. Click the files icon on the right side of the Colab Page
 3. Click "Upload to session storage"
 4. Upload "cleaned_data_revisedSet_noNull2" from this repository in the "Starting_Data" Folder
+5. Click on runtime on the top left of screen
+6. From the runtime dropbox click run all
 
 ## Accessing Data
 This project worked with two datasets.
