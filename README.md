@@ -19,8 +19,8 @@ For this clean up, we used the Pandas and Regex libraries. Our data came from [T
 
 ## Accessing Data
 This project worked with two datasets.
-1. Describe which columns and setting swere used to filter data.
-2. This data was global. 
+1. Contained instances of Therapoda and Thyreophora fossils found in North America.
+2. The second dataset is much wider. This data was global and the two clades compared (Ornithischia and Saurischia) were broader
    
 ## Data Clean Up
 Once converted from CSV to dataframe, the data was explored, and reduced from thirty-one to seven columns. Columns that were insufficient or wholly incomplete were dropped.\
@@ -41,15 +41,17 @@ This methods converts series into instances by column. Each column is a series o
 
 ![alt text](Images/camillo_golgi.jpg)
 # Machine learning models
-## Logistic Regression
+## Neural Network
+This is the model we decided to work with. It allowed us to tweak the process, manipulating layers and nodes over several versions. 
 
+## Logistic Regression
+This model is useful for binary classification. However the issue with this model was in its ability to learn from an imbalanced dataset. For instance, the first few runs (wherein Therapoda is overrepresented) many Thyreophora were misidentified.
 
 ## Decision tree
-Has potential
-The most accurate instance of this model contained both lithologic and environmental data. Included was longitudinal data, this furthered the models accuracy by ~ 4% t 73.44% where the previous model ignored latitude and longitude, yielding 69.02%.
+The most accurate instance of this model contained both lithologic and environmental data. 
+Included was longitudinal data, this furthered the models accuracy by ~ 4% t 73.44% where the previous model ignored latitude and longitude, yielding 69.02%.
 
-## Neural Network
-The most promising technique
+## Analysis
 
 ## Analysis
 
