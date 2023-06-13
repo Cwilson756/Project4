@@ -1,6 +1,6 @@
 # Project4
 ![alt text](Images/read_me_header.jpg)
-description goes here
+
 
 # Data
 For this clean up, we used the Pandas and Regex libraries. Our data came from [The Paleobiology Database](https://paleobiodb.org/#/). 
@@ -50,12 +50,4 @@ This model is useful for binary classification. However the issue with this mode
 ## Decision tree
 The most accurate instance of this model contained both lithologic and environmental data. 
 Included was longitudinal data, this furthered the models accuracy by ~ 4% t 73.44% where the previous model ignored latitude and longitude, yielding 69.02%.
-
-## Analysis
-
-## Analysis
-
-# Errors made along the way
-- Imbalanced Data
-- 
 
