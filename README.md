@@ -21,7 +21,7 @@ For this clean up, we used the Pandas and Regex libraries. Our data came from [T
 This project worked with two datasets.
 1. Contained instances of Therapoda and Thyreophora fossils found in North America.
 2. The second dataset is much wider. This data was global and the two clades compared (Ornithischia and Saurischia) were broader
-3. We utilized variables from this data including geospatial data, lithology, paleoenvironmental classificaion, estimated age of geological strata and the corresponding geologic time period.
+3. Variables from this data including geospatial data, lithology, paleoenvironmental classificaion, estimated age of geological strata and the corresponding geologic time period.
    
 ## Data Clean Up
 Once converted from CSV to dataframe, the data was explored, and reduced from thirty-one to seven columns. Columns that were insufficient or wholly incomplete were dropped.\
